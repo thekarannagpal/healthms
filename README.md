@@ -46,20 +46,27 @@ cd hospital-management-system
 
 ### 2. Backend Setup
 cd backend
+
 npm install
+
 npm start
+
 Backend runs on `http://localhost:5000`
 
 ### 3. Frontend Setup
 cd frontend
+
 npm install
+
 npm start
+
 Frontend runs on `http://localhost:3000`
 
 ### 4. Database Setup
 
 #### Option A: Local MongoDB
 Start MongoDB
+
 mongod
 
 #### Option B: MongoDB Atlas (Cloud)
