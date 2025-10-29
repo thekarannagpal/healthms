@@ -40,7 +40,7 @@ A comprehensive full-stack web application for managing hospital operations incl
 ## 🔧 Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.healthms.git
+git clone https://github.com/thekarannagpal/healthms.git
 cd hospital-management-system
 
 ### 2. Backend Setup
